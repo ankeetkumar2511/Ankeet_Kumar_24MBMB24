@@ -1,0 +1,81 @@
+booking_id,customer_id,customer_name,city,hotel_id,hotel_name,booking_date,stay_duration,amount_spent,status,rating
+1,1051,Riya,Delhi,200,ITC,01-01-2024,7,6000,Booked,2
+2,1092,Fatima,Mumbai,218,Hotel Taj,08-01-2024,6,7052,Booked,3
+3,1014,Riya,Bangalore,201,HolidayInn,15-01-2024,3,4738,Booked,5
+4,1071,Riya,Mumbai,211,ITC,22-01-2024,9,7387,Booked,5
+5,1060,Anita,Mumbai,205,Oberoi,29-01-2024,6,10002,Booked,1
+6,1020,Fatima,Hyderabad,203,Hotel Taj,05-02-2024,6,7536,Cancelled,1
+7,1082,Anita,Mumbai,210,Hotel Taj,12-02-2024,1,15479,Booked,2
+8,1086,Anita,Hyderabad,216,ITC,19-02-2024,4,5913,Booked,1
+9,1074,Fatima,Hyderabad,205,Oberoi,26-02-2024,6,19450,Booked,3
+10,1074,Amit,Mumbai,204,Oberoi,04-03-2024,6,12636,Cancelled,5
+11,1087,Anita,Bangalore,219,HolidayInn,11-03-2024,5,7726,Booked,2
+12,1099,Suresh,Bangalore,201,Oberoi,18-03-2024,1,5373,Booked,1
+13,1023,Suresh,Bangalore,205,Oberoi,25-03-2024,8,14161,Cancelled,3
+14,1002,Riya,Bangalore,210,Oberoi,01-04-2024,5,4082,Cancelled,3
+15,1021,Suresh,Bangalore,215,Marriott,08-04-2024,5,18281,Cancelled,1
+16,1052,Riya,Mumbai,215,HolidayInn,15-04-2024,7,17305,Booked,5
+17,1001,Amit,Mumbai,200,Hotel Taj,22-04-2024,4,11817,Booked,1
+18,1087,Fatima,Delhi,208,ITC,29-04-2024,6,13261,Booked,2
+19,1029,Fatima,Bangalore,205,Hotel Taj,06-05-2024,4,2417,Booked,1
+20,1037,Fatima,Mumbai,215,HolidayInn,13-05-2024,3,10808,Booked,3
+21,1001,Suresh,Delhi,202,ITC,20-05-2024,7,5267,Booked,1
+22,1063,Amit,Bangalore,219,HolidayInn,27-05-2024,8,19209,Cancelled,5
+23,1059,Suresh,Hyderabad,203,Oberoi,03-06-2024,4,7745,Booked,4
+24,1020,Suresh,Delhi,218,ITC,10-06-2024,2,13338,Booked,1
+25,1032,Amit,Mumbai,202,Oberoi,17-06-2024,3,2412,Booked,5
+26,1075,Amit,Hyderabad,218,Hotel Taj,24-06-2024,1,9543,Booked,5
+27,1057,Amit,Hyderabad,219,Hotel Taj,01-07-2024,8,9587,Booked,3
+28,1021,Amit,Hyderabad,206,ITC,08-07-2024,3,2728,Booked,5
+29,1088,Fatima,Delhi,219,ITC,15-07-2024,7,13657,Booked,5
+30,1048,John,Mumbai,208,HolidayInn,22-07-2024,5,7988,Booked,5
+31,1090,John,Hyderabad,200,HolidayInn,29-07-2024,5,4967,Booked,5
+32,1058,Amit,Bangalore,207,Oberoi,05-08-2024,7,16527,Booked,2
+33,1041,John,Hyderabad,206,ITC,12-08-2024,9,18048,Cancelled,2
+34,1091,John,Hyderabad,217,Hotel Taj,19-08-2024,5,19506,Booked,3
+35,1059,Amit,Delhi,207,HolidayInn,26-08-2024,1,19955,Booked,1
+36,1079,John,Delhi,200,HolidayInn,02-09-2024,1,7073,Cancelled,5
+37,1014,Suresh,Mumbai,210,Hotel Taj,09-09-2024,2,7104,Booked,1
+38,1061,Riya,Bangalore,217,HolidayInn,16-09-2024,6,4143,Cancelled,1
+39,1061,Riya,Delhi,209,Oberoi,23-09-2024,9,9357,Booked,3
+40,1046,Amit,Hyderabad,202,ITC,30-09-2024,8,14043,Cancelled,5
+41,1061,Fatima,Mumbai,206,Hotel Taj,07-10-2024,5,5440,Booked,5
+42,1050,Amit,Hyderabad,215,ITC,14-10-2024,1,7644,Cancelled,4
+43,1054,Fatima,Hyderabad,215,HolidayInn,21-10-2024,7,12518,Booked,1
+44,1063,Riya,Delhi,219,HolidayInn,28-10-2024,5,16552,Cancelled,1
+45,1002,Amit,Mumbai,216,Hotel Taj,04-11-2024,6,4914,Booked,2
+46,1050,Anita,Bangalore,201,Oberoi,11-11-2024,7,15584,Booked,4
+47,1006,Suresh,Bangalore,200,Marriott,18-11-2024,3,14144,Cancelled,2
+48,1020,John,Delhi,215,Hotel Taj,25-11-2024,3,16397,Booked,2
+49,1072,Fatima,Delhi,211,Marriott,02-12-2024,5,10787,Booked,2
+50,1038,Anita,Mumbai,204,Marriott,09-12-2024,6,16191,Booked,3
+51,1017,John,Bangalore,204,Oberoi,16-12-2024,9,2728,Booked,3
+52,1003,John,Bangalore,208,Marriott,23-12-2024,5,19749,Booked,2
+53,1088,Amit,Bangalore,208,Marriott,30-12-2024,1,2698,Booked,4
+54,1059,John,Hyderabad,202,Oberoi,06-01-2025,4,9186,Cancelled,1
+55,1013,Suresh,Bangalore,218,Marriott,13-01-2025,5,16512,Booked,4
+56,1008,Anita,Hyderabad,215,Marriott,20-01-2025,5,15923,Booked,5
+57,1089,John,Mumbai,215,Marriott,27-01-2025,7,18779,Cancelled,3
+58,1052,Amit,Hyderabad,202,Hotel Taj,03-02-2025,4,9400,Cancelled,1
+59,1001,Suresh,Mumbai,219,Hotel Taj,10-02-2025,1,6171,Booked,1
+60,1083,Riya,Bangalore,200,Hotel Taj,17-02-2025,5,6360,Booked,5
+61,1091,Anita,Bangalore,219,Oberoi,24-02-2025,7,4502,Booked,5
+62,1059,John,Mumbai,210,HolidayInn,03-03-2025,6,19101,Booked,2
+63,1070,Amit,Delhi,216,Marriott,10-03-2025,5,7486,Booked,3
+64,1043,Riya,Mumbai,207,Marriott,17-03-2025,4,10335,Booked,3
+65,1007,Riya,Delhi,203,Oberoi,24-03-2025,2,6491,Booked,4
+66,1046,Fatima,Hyderabad,205,Marriott,31-03-2025,4,13130,Booked,2
+67,1034,Suresh,Hyderabad,207,Hotel Taj,07-04-2025,3,9651,Cancelled,2
+68,1077,John,Hyderabad,219,HolidayInn,14-04-2025,1,3167,Cancelled,2
+69,1080,Amit,Bangalore,202,ITC,21-04-2025,8,3062,Booked,2
+70,1035,Fatima,Hyderabad,215,Marriott,28-04-2025,5,13174,Booked,3
+71,1049,Suresh,Delhi,202,Hotel Taj,05-05-2025,4,6729,Booked,3
+72,1003,Fatima,Hyderabad,217,ITC,12-05-2025,8,11348,Cancelled,2
+73,1001,Anita,Mumbai,213,HolidayInn,19-05-2025,7,7334,Booked,4
+74,1005,Suresh,Mumbai,217,ITC,26-05-2025,2,10924,Booked,1
+75,1053,Suresh,Bangalore,201,Hotel Taj,02-06-2025,1,6330,Cancelled,1
+76,1003,John,Mumbai,202,ITC,09-06-2025,4,8801,Cancelled,4
+77,1053,Suresh,Delhi,215,Oberoi,16-06-2025,8,6846,Cancelled,2
+78,1092,Fatima,Hyderabad,208,ITC,23-06-2025,2,8731,Booked,3
+79,1062,Suresh,Bangalore,203,Marriott,30-06-2025,3,17368,Booked,1
+80,1017,John,Hyderabad,200,Marriott,07-07-2025,1,19337,Booked,5
